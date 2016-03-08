@@ -1,0 +1,24 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <customBinding>
+                <binding name="CustomBinding_AdventureWorksService">
+                    <binaryMessageEncoding />
+                    <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+                <binding name="CustomBinding_AdventureWorksService1">
+                    <binaryMessageEncoding />
+                    <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="../Services/AdventureWorksService.svc" binding="customBinding"
+                bindingConfiguration="CustomBinding_AdventureWorksService"
+                contract="Services.AdventureWorksService" name="CustomBinding_AdventureWorksService" />
+            <endpoint address="../Services/AdventureWorksService.svc" binding="customBinding"
+                bindingConfiguration="CustomBinding_AdventureWorksService1"
+                contract="ServiceRefs.AdventureWorksService" name="CustomBinding_AdventureWorksService1" />
+        </client>
+    </system.serviceModel>
+</configuration>

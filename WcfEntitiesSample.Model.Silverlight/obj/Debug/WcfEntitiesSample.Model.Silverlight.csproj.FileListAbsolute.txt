@@ -1,0 +1,13 @@
+C:\Workspace\RollingActivityForecast\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\Workspace\RollingActivityForecast\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.pdb
+C:\Workspace\RollingActivityForecast\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\Workspace\RollingActivityForecast\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.pdb
+C:\cygwin\tmp\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\cygwin\tmp\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.pdb
+C:\cygwin\tmp\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.csprojResolveAssemblyReference.cache
+C:\cygwin\tmp\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\cygwin\tmp\WcfEntitiesSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.pdb
+C:\Workspace\CoursesNResources\CodeProject\SilverlightAppEFSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\Workspace\CoursesNResources\CodeProject\SilverlightAppEFSample\WcfEntitiesSample.Model.Silverlight\Bin\Debug\WcfEntitiesSample.Model.Silverlight.pdb
+C:\Workspace\CoursesNResources\CodeProject\SilverlightAppEFSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.dll
+C:\Workspace\CoursesNResources\CodeProject\SilverlightAppEFSample\WcfEntitiesSample.Model.Silverlight\obj\Debug\WcfEntitiesSample.Model.Silverlight.pdb

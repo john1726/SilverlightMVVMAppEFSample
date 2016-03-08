@@ -1,0 +1,9 @@
+D:\Documents\Docs\Publications\Silverlight 5 in Action\src\Ch18 Services\18.08\WcfServiceExample\WcfServiceExample.Model.Silverlight\Bin\Debug\WcfServiceExample.Model.Silverlight.dll
+D:\Documents\Docs\Publications\Silverlight 5 in Action\src\Ch18 Services\18.08\WcfServiceExample\WcfServiceExample.Model.Silverlight\Bin\Debug\WcfServiceExample.Model.Silverlight.pdb
+D:\Documents\Docs\Publications\Silverlight 5 in Action\src\Ch18 Services\18.08\WcfServiceExample\WcfServiceExample.Model.Silverlight\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Docs\Publications\Silverlight 5 in Action\src\Ch18 Services\18.08\WcfServiceExample\WcfServiceExample.Model.Silverlight\obj\Debug\WcfServiceExample.Model.Silverlight.dll
+D:\Documents\Docs\Publications\Silverlight 5 in Action\src\Ch18 Services\18.08\WcfServiceExample\WcfServiceExample.Model.Silverlight\obj\Debug\WcfServiceExample.Model.Silverlight.pdb
+C:\Workspace\CoursesNResources\Books\Silverlight5InAction\Ch20 Soap Services\20.09-20.12\WcfServiceExample\WcfServiceExample.Model.Silverlight\Bin\Debug\WcfServiceExample.Model.Silverlight.dll
+C:\Workspace\CoursesNResources\Books\Silverlight5InAction\Ch20 Soap Services\20.09-20.12\WcfServiceExample\WcfServiceExample.Model.Silverlight\Bin\Debug\WcfServiceExample.Model.Silverlight.pdb
+C:\Workspace\CoursesNResources\Books\Silverlight5InAction\Ch20 Soap Services\20.09-20.12\WcfServiceExample\WcfServiceExample.Model.Silverlight\obj\Debug\WcfServiceExample.Model.Silverlight.dll
+C:\Workspace\CoursesNResources\Books\Silverlight5InAction\Ch20 Soap Services\20.09-20.12\WcfServiceExample\WcfServiceExample.Model.Silverlight\obj\Debug\WcfServiceExample.Model.Silverlight.pdb
